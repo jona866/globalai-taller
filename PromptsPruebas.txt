@@ -1,0 +1,121 @@
+=== PRUEBAS PARA EL AGENTE ===
+
+1. **Consulta de producto específico (fútbol):**
+
+   ```
+   ¡Hola! ¿Podrías darme toda la información sobre el Balón ProMatch 2024? Quiero conocer sus características, precio y disponibilidad.
+   ```
+
+2. **Comparativa entre dos productos (fútbol):**
+
+   ```
+   ¿Cuál es la diferencia entre los Botines UltraSpeed V5 y unos Botines de la línea anterior (por ejemplo, UltraSpeed V4)? ¿Cuál me conviene más para un jugador que busca velocidad?
+   ```
+
+3. **Recomendación por disciplina y presupuesto (senderismo):**
+
+   ```
+   Quiero preparar un kit de senderismo para rutas de un día. Dispongo de un presupuesto de aproximadamente $5,000 MXN. ¿Qué me recomiendas?
+   ```
+
+4. **Consulta de promoción vigente (natación):**
+
+   ```
+   ¿Me puedes explicar en qué consiste la promoción "Verano Acuático"? ¿Hasta qué fecha está vigente y qué condiciones tiene?
+   ```
+
+5. **Recomendación cruzando promociones (senderismo):**
+
+   ```
+   Estoy interesado en las Botas TrailMaster X-Trek. ¿Cómo puedo aprovechar la promoción “Ruta Outdoor”? Explícame qué descuentos aplican y cómo funciona.
+   ```
+
+6. **Listado de productos por categoría (béisbol):**
+
+   ```
+   Muéstrame todos los productos disponibles en la categoría de béisbol con sus precios y disponibilidad.
+   ```
+
+7. **Comparativa de precios (natación):**
+
+   ```
+   ¿Cuál de estos productos de natación cuesta más: las Gafas AquaVision Pro UV+ o el Traje HydroFit Elite? Indica precios y disponibilidad de cada uno.
+   ```
+
+8. **Generación de contenido de marketing (email):**
+
+   ```
+   Redáctame un correo de marketing dirigido a clientes que practican fútbol, invitándolos a aprovechar la promoción “Combo Fútbol Total”. Debe incluir beneficios, fechas y llamada a la acción.
+   ```
+
+9. **Generación de banner/promoción para redes sociales (escala-da):**
+
+   ```
+   Crea un texto breve para redes sociales (Twitter/Instagram) que promocione el “Kit Escalada Pro” con un 25% de descuento. Debe ser llamativo y contener fecha límite de la oferta.
+   ```
+
+10. **Consulta de disponibilidad en tienda física vs. en línea:**
+
+    ```
+    Quiero comprar el Arnés ClimbSecure 500, pero prefiero recogerlo en tienda física. ¿Está disponible en sucursales o solo en la tienda en línea?
+    ```
+
+11. **Consulta de tallas y materiales (fútbol):**
+
+    ```
+    ¿Qué tallas y materiales utiliza el Conjunto de Entrenamiento RespiraTech? Tengo piel sensible y me interesa que sea transpirable.
+    ```
+
+12. **Solicitud de exportación de datos (natación, formato CSV):**
+
+    ```
+    Necesito un archivo CSV con los productos de natación, incluyendo columnas: Producto, Precio (MXN), Disponibilidad, Características. ¿Podrías generarlo?
+    ```
+
+13. **Recomendación de conjunto básico (natación):**
+
+    ```
+    Quiero un kit básico de natación para entrenar tres veces por semana. Recomiéndame tres productos (anteojos, gorro y una tabla de patada) con sus descripciones breves.
+    ```
+
+14. **Pregunta sobre el origen e historia de la empresa:**
+
+    ```
+    ¿Qué puedes contarme sobre la historia de SportiveX? Estoy preparando una presentación y necesito un resumen convincente de su misión y valores.
+    ```
+
+15. **Consulta sobre condiciones de devolución y garantía:**
+
+    ```
+    ¿Cuál es la política de garantía y devoluciones de SportiveX? Si un cliente no está satisfecho con un producto, ¿qué pasos debe seguir?
+    ```
+
+16. **Recomendación de productos para regalo (béisbol):**
+
+    ```
+    Busco un regalo para un amigo que juega béisbol aficionado. Tiene un presupuesto de $1,500 MXN. ¿Qué me sugieres que incluya en el regalo?
+    ```
+
+17. **Generación de resumen ejecutivo (producto + promoción):**
+
+    ```
+    Elabora un párrafo que resuma el beneficio de comprar el Bate PowerSwing 900 aprovechando el “Pack Beisbolista”, indicando fechas y ahorro aproximado.
+    ```
+
+18. **Pregunta sobre promociones caducadas o fuera de vigencia:**
+
+    ```
+    Hoy es 5 de julio de 2025 y quiero saber si aún puedo obtener la promoción “Ruta Outdoor”. ¿Sigue activa o ya venció?
+    ```
+
+19. **Recomendación cruzada entre deportes (variado):**
+
+    ```
+    Quiero iniciar en dos deportes: natación y senderismo. ¿Qué productos básicos me recomiendas para cada uno, considerando que mi prioridad es la calidad y comodidad?
+    ```
+
+20. **Consulta de accesorios 2x1 (SportiveX Weekend):**
+
+    ```
+    Este fin de semana quiero aprovechar el 2x1 en accesorios. ¿Qué opciones tengo y cómo funciona exactamente?
+    ```
